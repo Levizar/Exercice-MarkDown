@@ -8,7 +8,7 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en autre
 
 
 
-![Photo de Jhon et Aaron](/jhon et aaron.jpg)
+![Photo de Jhon et Aaron](/jhon-aaron.jpg)
 
 
 
