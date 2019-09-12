@@ -10,4 +10,4 @@ Il existe également des greffons pour de nombreux logiciels populaires, tels qu
 
 L'initiative *Common Mark8* vise à pallier le manque de standardisation et les ambiguïtés du format.
 
-! (https://i.stack.imgur.com/IM2AB.gif)
+! (exemple.gif)
