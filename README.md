@@ -1,6 +1,6 @@
 # exercice-markdown
 
-Team : 
+##Team : 
 - Brice Bartoletti (https://github.com/Levizar)
 - Issam Boumarouane (https://github.com/Boumarouane)
 - Bartosz Krinsky ([link] https://github.com/krynskibartosz)
