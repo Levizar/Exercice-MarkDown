@@ -1,26 +1,40 @@
-\# MarkDown#
+# Syntax MarkDown #
 
-\## Comment créer des titres et sous titres ##
+## Comment créer des titres et sous titres ##
+
 La syntaxe de MD et semblable à celle de Html:
 mettre son/ses titres entre "#"
-exemple: #1er titre#   ##Sous-titre## et ainsi de suite
-
-\### 3e titre ###
 
 
-1. First item
+exemple: ```#1er titre#      ##Sous-titre## ```
 
-2. Second item
+   et rajouter un ou plusieurs "#" en fonction du niveau des titres.
 
-3. Third item
+## Les listes ordonnées ##
 
+1. Une liste ordonée commence par un numéro.
+
+2. Suivi d'un point
+
+Voici comment procéder:
+```
+1. 1er liste.
+
+2. 2e liste.
+
+```
+## Les listes non ordonnées ##
+
+Pour créer une liste non ordonées il suffit de placer un tirer avant son texte
+```
+-Listes non ordonées
 -...
 -...
--...
-
-* listes imbriqué
-  *2e niveau
-
-  
-
-
+```
+## Les listes imbriqués ##
+Pour créer le 1er niveau de la liste il faut placer une astérix avant le texte
+Pour imbriqué des listes il faut laisser 2 espace avant l'asterix  pour chaque niveau
+```
+* first level
+  *second level
+```
