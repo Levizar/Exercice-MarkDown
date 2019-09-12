@@ -1,4 +1,4 @@
-# Paragraphe #
+## Paragraphe ##
 Pour un paragraphe, il faut simplement sauter deux lignes et taper le texte du paragraphe. Un seul saut de ligne correspond à un retour et non un chanrement de paragraphe.
 
 
@@ -23,7 +23,11 @@ paragraphe 2,
 simple retour à la ligne du code, pas de retour à la ligne dans le visuel
 ```
 
-# Création de tableau #
+## citation ##
+
+
+
+## Création de tableau ##
 
 commande | nom de commande | visuel
 - | :-: | -:
@@ -38,7 +42,7 @@ colonne 1 | colonne 2 | colonne 3
 
 
 
-# Fenced Code Blocks #
+## Fenced Code Blocks ##
 
 ```
 {
@@ -49,13 +53,5 @@ colonne 1 | colonne 2 | colonne 3
 ```
 
 
-voici le code:
-```
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-```
+Il suffit pour cela de baliser le code avec au début du code ´´´ et ´´´ à la fin
+
