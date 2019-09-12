@@ -3,5 +3,5 @@
 ## Team : 
 - [Brice Bartoletti](https://github.com/Levizar)
 - [Issam Boumarouane](https://github.com/Boumarouane)
-- [Bartosz Krinsky](https://github.com/krynskibartosz)
+- [Bartosz Krynski](https://github.com/krynskibartosz)
 - Térence Hecq
