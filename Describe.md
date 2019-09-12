@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Evolution du MarkDown
 
 Depuis sa création originelle par Gruber, Markdown n'a **pas connu d'évolution notoire** de la part de ses auteurs. De plus, ce format n'a jamais été formellement standardisé.
@@ -23,34 +22,3 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en autre
 
 
 ![Photo de Jhon et Aaron](/jhon-aaron.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> ISSAM
