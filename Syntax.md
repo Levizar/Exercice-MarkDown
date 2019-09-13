@@ -1,4 +1,4 @@
-### [Description et histoire du MakDown](/Describe.md) ###
+### [Description et histoire du MarkDown](/Describe.md) ###
 
 # Syntax MarkDown #
 La syntaxe de MD et semblable à celle de Html:
