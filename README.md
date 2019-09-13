@@ -13,4 +13,4 @@ Dans ce repo, nos buts sont :
 2. Donner des exemples de [syntaxe en MarkDown](/Syntax.md).
 
 
-Ce projet a été réalisé les 12 & 13 septembre dans le cadre de notre formation BeCode.
+Cet exercice a été réalisé les 12 & 13 septembre dans le cadre de notre formation BeCode.
