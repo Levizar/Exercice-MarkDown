@@ -57,7 +57,18 @@ L'on peut aligner plus d'astérisque, à votre convenance pour la clarté du cod
 
 ## Création de lien ##
 
+Pour créer un lien hypertexte, il faut entourer le lien en question de chevron:
 
+<www.google.com>
+
+code:
+```
+<www.google.com>
+```
+
+## Lien vers des images ##
+
+![Logo Markdown](/Markdown-mark.svg)
 
 ## Création de tableau ##
 
