@@ -5,7 +5,6 @@ Markdown est un langage de balisage léger créé en 2004 par John Gruber avec A
 Un document balisé par Markdown peut être converti en HTML, en PDF ou en autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont Setext, atx, Textile, reStructuredText, Grutatext et EtText —, la source d’inspiration principale est le format du courrier électronique en mode texte.
 
 
-
 ![Photo de Jhon et Aaron](/jhon-aaron.jpg)
 
 
@@ -20,5 +19,7 @@ Depuis sa création originelle par Gruber, Markdown n'a **pas connu d'évolution
 Il existe également des greffons pour de nombreux logiciels populaires, tels que *« Markdown Here »* pour Firefox et Chrome, et le système de gestion de contenu WordPress intègre désormais quelques éléments de ce langage nativement depuis la version 4.3.
 
 L'initiative *Common Mark8* vise à pallier le manque de standardisation et les ambiguïtés du format.
+
+[Voici comment utiliser le MarkDown](/Syntax.md)
 
 ![exemple de MarkDown en gif](/exemple.gif)
