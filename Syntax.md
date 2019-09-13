@@ -202,10 +202,12 @@ Il suffit pour cela de baliser le code avec au début du code \``` et \``` à la
 
 Pour colorer le code, il suffit d'ajouter le nom du langage juste après les 3 premiers ```
 
-```PHP
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Exemple avec ce code en Ruby
+```ruby
+arr = [ 1, 42, 5, 12, 6, 8 ]
+arr.sort.reverse
+if arr.length > 2
+      puts "arr is greater than 3"
+end
+puts arr
 ```
