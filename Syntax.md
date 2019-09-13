@@ -38,7 +38,6 @@ Voici le code pour effectuer cette citation:
 > voici une citation
 ```
 
-
 ## Création de ligne ##
 
 L'on peut créer une ligne sur la longueur de la page en alignant au moins 3 astérisques comme présenté ci-dessous:
@@ -55,6 +54,19 @@ Très belle ligne ci-dessus
 
 L'on peut aligner plus d'astérisque, à votre convenance pour la clarté du code.
 
+## Echappement des caractères servant au marquage de markdown ##
+
+Les marqueurs ne peuvent être utilisé "simplement" dans du texte.
+Afin de les afficher, il faut les échapper avec un antislash.
+
+Voici les caractères qui doivent être échappés:
+\\ \* \` \- \_ \[\] \(\) \{\} \# \+ \. \!
+
+Voici le code:
+```
+\\ \* \` \- \_ \[\] \(\) \{\} \# \+ \. \!
+```
+
 ## Création de lien ##
 
 Pour créer un lien hypertexte, il faut entourer le lien en question de chevron:
@@ -69,6 +81,13 @@ code:
 ## Lien vers des images ##
 
 ![Logo Markdown](/Markdown-mark.svg)
+
+Voici le code permettant ce lien:
+
+```
+![Logo Markdown](/Markdown-mark.svg)
+```
+Le texte entre \[  \] s'affiche lorsque l'image ne peut pas se charger.
 
 ## Création de tableau ##
 
