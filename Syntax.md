@@ -1,3 +1,5 @@
+</Describe.md>
+
 ## Paragraphe ##
 Pour un paragraphe, il faut simplement sauter deux lignes et taper le texte du paragraphe. Un seul saut de ligne correspond à un retour et non un chanrement de paragraphe.
 
@@ -24,6 +26,36 @@ simple retour à la ligne du code, pas de retour à la ligne dans le visuel
 ```
 
 ## citation ##
+
+Les citations doivent simplement être indentées par un chevron
+exemple:
+
+> Voici une citation
+
+Voici le code pour effectuer cette citation:
+
+```
+> voici une citation
+```
+
+
+## Création de ligne ##
+
+L'on peut créer une ligne sur la longueur de la page en alignant au moins 3 astérisques comme présenté ci-dessous:
+
+Voici une ligne ci-dessous
+***
+Très belle ligne ci-dessus
+
+```
+Voici une ligne ci-dessous
+***
+Très belle ligne ci-dessus
+```
+
+L'on peut aligner plus d'astérisque, à votre convenance pour la clarté du code.
+
+## Création de lien ##
 
 
 
