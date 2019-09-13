@@ -196,5 +196,16 @@ colonne 1 | colonne 2 | colonne 3
 }
 ```
 
-Il suffit pour cela de baliser le code avec au début du code ´´´ et ´´´ à la fin
+Il suffit pour cela de baliser le code avec au début du code \``` et \``` à la fin
 
+## Coloration du code des fenced block ##
+
+Pour colorer le code, il suffit d'ajouter le nom du langage juste après les 3 premiers ```
+
+```PHP
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
