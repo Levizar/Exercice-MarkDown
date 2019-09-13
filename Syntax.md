@@ -1,4 +1,4 @@
-### </Describe.md> ###
+### [Description et histoire du MakDown](/Describe.md) ###
 
 # Syntax MarkDown #
 La syntaxe de MD et semblable à celle de Html:
@@ -90,13 +90,20 @@ Voici le code:
 
 ## Création de lien ##
 
-Pour créer un lien hypertexte, il faut entourer le lien en question de chevron:
+[Lien cliquable vers google](www.google.com)
 
-<www.google.com>
-
-code:
+Voici comment procéder:
 ```
-<www.google.com>
+[Lien cliquable vers google](www.google.com)
+```
+L'on peut également créer des liens relatifs comme celui-ci:
+
+[Description et histoire du MakDown](/Describe.md)
+
+Pour cela, il suffit de remplacer le lien pour un chemin relatif, voyez plutot:
+
+```
+[Description et histoire du MakDown](/Describe.md)
 ```
 
 ## Lien vers des images ##
