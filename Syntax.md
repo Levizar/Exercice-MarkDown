@@ -106,6 +106,13 @@ Pour cela, il suffit de remplacer le lien pour un chemin relatif, voyez plutot:
 [Description et histoire du MakDown](/Describe.md)
 ```
 
+En cas d'espace dans les noms de fichiers ou les chemins, il faut remplacer ceux-ci par %20
+
+Exemple: si le fichier "Describe.md" s'appelait "1. Describe.md"
+```
+[Description et histoire du MakDown](/1.%20Describe.md)
+```
+
 ## Lien vers des images ##
 
 ![Logo Markdown](/Markdown-mark.svg)
