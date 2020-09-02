@@ -182,16 +182,18 @@ Pour imbriqué des listes il faut laisser 2 espace avant l'asterix  pour chaque 
 
 ## Création de tableau ##
 
-commande | nom de commande | visuel
-- | :-: | -:
-colonne 1 | colonne 2 | colonne 3
+| titre 1 | titre 2 | titre 3 |
+| :- | :-: | -: |
+| colonne 1 | colonne 2 | colonne 3 |
 
 Voilà le code de ce tableau:
 ```
-commande | nom de commande | visuel
-- | :-: | -:
-colonne 1 | colonne 2 | colonne 3
+| titre 1 | titre 2 | titre 3 |
+| :- | :-: | -: |
+| colonne 1 | colonne 2 | colonne 3 |
 ```
+
+Notez que la deuxième ligne de code sert à indiquer la disposition du texte dans le tableau.
 
 ## Fenced Code Blocks ##
 
