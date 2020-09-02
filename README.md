@@ -13,4 +13,5 @@ Dans ce repo, nos buts sont :
 2. Donner des exemples de [syntaxe en MarkDown](/Syntax.md).
 
 
-Cet exercice a été réalisé les 12 & 13 septembre dans le cadre de notre formation BeCode.
+Cet exercice a été réalisé les 12 & 13 septembre dans le cadre de du début de notre formation BeCode.
+Une correction au code du tableau a été apportée le 02/09/2020
